@@ -4,12 +4,9 @@
 
 The Results Summary tool is designed to summarize and visualize data from various sources, providing a quick overview of important metrics and insights. It takes data as input, processes it, and generates easy-to-understand summaries, charts, and graphs.
 
-![Results Summary Screenshot](screenshots/results-summary-screenshot.png)
-*Caption: Screenshot of the Results Summary tool.*
-
 ## Live Demo
 
-Visit the live demo of the Results Summary tool: [https://results-summary-page.vercel.app/](https://results-summary-page.vercel.app/)
+Visit the live demo of the Results Summary tool: [https://jyotiprakash95.github.io/Results-summary/)
 
 ## Features
 
